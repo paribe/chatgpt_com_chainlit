@@ -30,6 +30,10 @@ def obter_resposta(mensagem):
         return "Nunca desista! Cada erro é um passo em direção ao sucesso. 💪"
     elif "angola" in conteudo:
         return "Sei que vai viajar para Angola, parabéns! ✈️🌍"
+    elif "feio" in conteudo:
+        return "Você precisa faer uma operação plastica, parabéns! ✈️🌍"
+    
+
     else:
         return "Não entendi muito bem. Já pensou em aprender Python? 🤔"
 
